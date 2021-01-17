@@ -1,3 +1,3 @@
 # img
 
-For Img Bed only
+This repository is ONLY used for PicGo as Pic Bed.
